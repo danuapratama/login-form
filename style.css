@@ -380,6 +380,10 @@ form.sign-in-form {
     top: 5%;
     transform: translate(-50%, 0);
   }
+
+  .container .text a {
+    font-size: xx-small;
+  }
 }
 
 @media (max-width: 570px) {
